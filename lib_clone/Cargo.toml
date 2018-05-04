@@ -1,0 +1,7 @@
+[package]
+name = "lib_clone"
+version = "0.1.0"
+authors = ["rowlandsonpratt <striderman34@gmail.com>"]
+
+[dependencies]
+git2 = "0.7.1"
